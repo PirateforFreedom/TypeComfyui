@@ -3,6 +3,7 @@
 TypeComfyui
 =======
 TypeComfyui,an easier-to-use comfyui tool
+
 The most powerful and modular stable diffusion GUI and backend.
 -----------
 ![ComfyUI Screenshot](comfyui_screenshot.png)
